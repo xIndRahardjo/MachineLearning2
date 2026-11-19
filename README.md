@@ -27,6 +27,12 @@ This repository follows the principles of [Cookiecutter Data Science](https://co
 - Store configuration and dependency versions in the project.
 - Avoid committing credentials, private data, large datasets, or generated model binaries.
 
+## Progress log
+
+| Date | Work completed |
+|---|---|
+| 2026-11-19 | Added `AGENTS.md` with project rules for AI helpers. |
+
 ## License
 
 See [LICENSE](LICENSE).
